@@ -11,6 +11,9 @@ from selenium import webdriver
 
 def test_open_login():
     driver = webdriver.Chrome()
+    # Create a session with POST request (API POST request)
+    # Fresh Chrome browser will be open - session ID created
+    # sessionId - 68624727340877
     driver.get("https://www.google.com/")
     driver.maximize_window()
     print(driver.title)
