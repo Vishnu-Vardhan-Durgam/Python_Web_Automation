@@ -11,3 +11,21 @@
 
 '''pip install selenium pytest pytest-html allure-pytest
 '''
+
+## How to push into git
+- git add .
+- git commit -m "Message"
+- git push
+- git pull (if you have added something on github)
+
+
+## How to run your testcase parallely
+''' pip install pytest-xdist '''
+
+''' pytest -n auto code/08_Jan_2024.py -s -v '''
+
+
+## to install dotenv
+''' pip install python-dotenv '''
+
+

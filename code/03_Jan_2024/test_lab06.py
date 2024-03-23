@@ -2,7 +2,8 @@
 
 
  # Preferences -----
- # ID --> Name
+ # ID
+ # Name
  # Class name
  # Tag name
  # Link text/Partical Link

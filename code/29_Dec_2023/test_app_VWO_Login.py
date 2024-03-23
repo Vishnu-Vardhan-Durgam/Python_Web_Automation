@@ -2,7 +2,7 @@
 # Navigate to a URL
 # Find the Email web element and enter "EmailID"
 # Fine the password web element and enter "Password"
-# Click on the botton "Sign in
+# Click on the button "Sign in
 
 
 # Verify the Dashboard is loaded
