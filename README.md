@@ -28,4 +28,8 @@
 ## to install dotenv
 ''' pip install python-dotenv '''
 
+## during running selenium test cases
+''' pip install openpyxl '''
+
+
 
